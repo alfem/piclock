@@ -27,3 +27,10 @@ Curious? Check a picture of the main components here:
 
 
 http://www.flickr.com/photos/alfem/10285971224/
+
+
+IMPROVEMENTS AND SUGGESTIONS
+
+- Add a "sheep counting" module to help you fall asleep  (thanks my friend Mantos)
+- Add a microphone for snore detection (and perhaps making counter-snore oises) 
+- Test pillow-speakers (they do not need amplification)
